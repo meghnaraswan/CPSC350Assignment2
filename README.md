@@ -21,6 +21,7 @@ MirrorGrid.hpp
 
 How to run:
 g++ *.cpp -o game_of_life
+
 ./game_of_life
 
 References:
