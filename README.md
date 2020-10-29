@@ -20,9 +20,8 @@ MirrorGrid.cpp
 MirrorGrid.hpp
 
 How to run:
-g++ *.cpp -o game_of_life
-
-./game_of_life
+- g++ *.cpp -o game_of_life
+- ./game_of_life
 
 References:
 - ZyBooks: CPSC 298 Intro to C++
